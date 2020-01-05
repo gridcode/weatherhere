@@ -1,0 +1,26 @@
+@media (min-width: 576px) {
+    .algolia-places{
+        width: 100% !important;
+        display: flex !important;;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 768px) {
+    .algolia-places{
+        width: 50% !important;
+        display: flex !important;;
+        margin: 0 auto;
+    }
+}
+
+.jumbotron{
+    flex-direction: column;
+    justify-content: center;
+}
+.ap-suggestion{
+    font-size: 1rem;
+    color: #000;
+}
+.ap-icon-pin{
+    display: none;
+}
