@@ -12,7 +12,7 @@ const Navigation = () => (
             activeClassName="active"
             className="nav-link mr-4 "
             exact
-            to="/"
+            to="http://fayazsayed.com/"
           >
             <i className="fas fa-sm fa-arrow-left mx-2"></i>
             Home
